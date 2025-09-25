@@ -51,3 +51,5 @@ Install dependencies and run:
 pip install streamlit
 streamlit run app.py
 
+APP URL:
+https://app-data-analysis-main-mwrxy8gvapszesnqpsvsag.streamlit.app/
